@@ -1,7 +1,7 @@
 # Linear Regression in python
 import numpy as np
 import pandas as pd
-from sklearn.model_selection import test_train_split
+from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from google.colab import files
 
