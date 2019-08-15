@@ -2,25 +2,15 @@
 
 
 | Command | Desc |
-
 | ------- | ---- |
-
 | df.drop('col_name',axis=1) | Drops the column col_name |
-
 | df.head(n) | Show top n rows, Default = 5 |
-
 | df.shape | Displays the shape of the df (count(rows),count(cols)) |
-
 | df.columns | Displays the cols / Header of the df |
-
 | df['col_name'].sum() | Returns the sum of the col |
-
 | df['col_name'].distinct() | Returns the distinct values of the col |
-
 | df.duplicated() | Returns the number of records duplicated |
-
 | df.drop_duplicates() | Drop all duplicated |
-
 | df['col_name'].notnull() |  To check the records that is not null |
 
 
