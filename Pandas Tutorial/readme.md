@@ -15,7 +15,7 @@
 
 
 
-
+## Examples:
 
 ### Drop a column in a pandas df
 ```
@@ -28,12 +28,10 @@ df.head(n)
 # Default = 5
 ```
 
-
 ### Number of rows and cols
 ```
 df.shape
 ```
-
 
 ### Get number of duplicate records in the DF
 ```
