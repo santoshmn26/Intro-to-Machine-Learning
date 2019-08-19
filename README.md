@@ -3,8 +3,8 @@ Introduction to Machine Learning
 
 ### There are basically 2 types of Learning process in Machine Learning
 ```
-1. Supervised Learning: Data is ***labled. ***
-2. Un-supervised Learning: Data is ***not labled. ***
+1. Supervised Learning: Data is ***labled.***
+2. Un-supervised Learning: Data is ***not labled.***
 ```
 
 ### Examples of Supervised Learning
@@ -35,7 +35,7 @@ Road map so far
     Plot and check for distrubances in the data
 6. Feature Engineering:
     Next important step in ML.
-    Choosing the right features for training your model. *** More is not always better in ML ***
+    Choosing the right features for training your model. ***More is not always better in ML***
     Training the Model with Less necessary features is always better than 
     Training a model with a huge amount of unecessary features.
     See how the features are is co-related between each other.
