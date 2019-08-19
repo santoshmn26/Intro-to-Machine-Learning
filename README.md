@@ -23,7 +23,7 @@ Road map so far
 
 ## Steps to follow to solve a problem using ***Machine Learning***
 ```
-1. Get the Data Set: Need a dataset to develop a model that can predict.
+1. Get the right Data Set: Need a right dataset to develop a model that can predict.
 2. Understand the Dataset: Understand each feature / column and it's importance.
 3. Choose the Depedent variable to be predected
 4. Perform Basic cleaning: 
