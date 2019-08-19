@@ -18,10 +18,10 @@ Road map so far
 1. Linear Regression
 2. Polynomial Regression
 
-#More to come!
+# More to come!
 ----------------
 
-## Steps to follow to solve a problem using *** Machine Learning ***
+## Steps to follow to solve a problem using ***Machine Learning***
 ```
 1. Get the Data Set: Need a dataset to develop a model that can predict.
 2. Understand the Dataset: Understand each feature / column and it's importance.
