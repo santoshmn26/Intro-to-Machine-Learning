@@ -9,15 +9,10 @@ problem: This can cause some issue with some ML algorithms since some algorithm 
 
 Ex:
 | ori | new_col |
-
 | --- | ------- |
-
 | a | 1 |
-
 | b	| 2 |
-
 | a	| 1 |
-
 | c | 3 |
 
 
