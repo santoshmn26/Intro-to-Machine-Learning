@@ -9,7 +9,7 @@ problem: This can cause some issue with some ML algorithms since some algorithm 
 
 Ex:
 
-| ori | new_col |
+| original | new_col |
 | --- | ------- |
 | a | 1 |
 | b	| 2 |
@@ -25,16 +25,12 @@ then the dimension of the data is going to increase significantly.
 Also some newly generated columns can be highly co-related which can impact negatively on some ML models.
 
 Ex:
-| ori | new_a | new_b | new_c |
 
+| original | new_a | new_b | new_c |
 | --- | ----- | ----- | ----- |
-
 | a | 1 | 0 | 0 |
-
 | b | 0 | 1 | 0 |
-
 | a | 1 | 0 | 0 |
-
 | c | 0 | 0 | 1 |
 
 
@@ -42,16 +38,12 @@ Ex:
 where as one hot encoder is under sklearn preprocessing package.
 
 Ex:
-| ori | new_a | new_b | new_c |
 
+| original | new_a | new_b | new_c |
 | --- | ----- | ----- | ----- |
-
 | a | 1 | 0 | 0 |
-
 | b | 0 | 1 | 0 |
-
 | a | 1 | 0 | 0 |
-
 | c | 0 | 0 | 1 |
 
 # Function to dummy all the categorical variables used for modeling
