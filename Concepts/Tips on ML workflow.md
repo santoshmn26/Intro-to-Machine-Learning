@@ -8,6 +8,7 @@ We have to be careful choosing the right methods.
 problem: This can cause some issue with some ML algorithms since some algorithm treats higher values with more bias
 
 Ex:
+
 | ori | new_col |
 | --- | ------- |
 | a | 1 |
