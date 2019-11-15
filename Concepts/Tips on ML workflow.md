@@ -8,11 +8,16 @@ We have to be careful choosing the right methods.
 problem: This can cause some issue with some ML algorithms since some algorithm treats higher values with more bias
 
 Ex:
-| ori |	new_col |
+| ori | new_col |
+
 | --- | ------- |
+
 | a | 1 |
+
 | b	| 2 |
+
 | a	| 1 |
+
 | c | 3 |
 
 
@@ -25,10 +30,15 @@ Also some newly generated columns can be highly co-related which can impact nega
 
 Ex:
 | ori | new_a | new_b | new_c |
+
 | --- | ----- | ----- | ----- |
+
 | a | 1 | 0 | 0 |
+
 | b | 0 | 1 | 0 |
+
 | a | 1 | 0 | 0 |
+
 | c | 0 | 0 | 1 |
 
 
@@ -37,10 +47,15 @@ where as one hot encoder is under sklearn preprocessing package.
 
 Ex:
 | ori | new_a | new_b | new_c |
+
 | --- | ----- | ----- | ----- |
+
 | a | 1 | 0 | 0 |
+
 | b | 0 | 1 | 0 |
+
 | a | 1 | 0 | 0 |
+
 | c | 0 | 0 | 1 |
 
 # Function to dummy all the categorical variables used for modeling
