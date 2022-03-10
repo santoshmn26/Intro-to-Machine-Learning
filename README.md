@@ -7,7 +7,7 @@ Introduction to Machine Learning
 2. Un-supervised Learning: Data is not labled
 ```
 
-### Examples of Supervised Learning
+### Examples of Supervised Learning ss
 ```
 1. Classification
 2. Regression
