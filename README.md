@@ -1,7 +1,7 @@
 # Intro-to-Machine-Learning
 Introduction to Machine Learning
 
-### There are basically 2 types of Learning process in Machine Learning
+### There are basically 2 types of Learning process in Machine Learnings
 ```
 1. Supervised Learning: Data is labled
 2. Un-supervised Learning: Data is not labled
